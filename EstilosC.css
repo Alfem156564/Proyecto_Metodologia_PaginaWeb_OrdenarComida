@@ -1,0 +1,20 @@
+.BlueText{
+	color:#0152a3;/*Azul fuerte  Celeste:#01aff1*/
+	font-family: Arial;
+	font-size: 13px;
+	align:justify;
+}
+
+.RedText{
+	color:red;
+}
+
+table{
+	width:100%;
+}
+
+b{
+	font-family: Arial;
+	font-size: 14px;
+	align:justify;
+}
